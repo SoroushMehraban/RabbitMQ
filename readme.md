@@ -2,7 +2,7 @@
 RabbitMQ is an open-source message broker that implements AMQP (Advanced Message Queue Protocol).  
 In this repository I run this on Docker and write a python program to use it.
 
-# Setup
+## Setup
 It can be pulled from the dockerhub using the following command:
 ```text
 docker pull rabbitmq:3-management
